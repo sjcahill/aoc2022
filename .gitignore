@@ -68,3 +68,6 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+#scratch work
+scratch.py
